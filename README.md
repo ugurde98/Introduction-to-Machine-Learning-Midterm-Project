@@ -30,6 +30,7 @@ The performance of the models was evaluated using the following metrics:
   - Precision, recall, f1-score values
 - Confusion Matrix:
   - True Positive (TP), True Negative (TN), False Positive (FP), False Negative (FN), specificity, sensitivity values
+  - ![alt text](http://url/to/img.png)
 
 ### Random Forest Algorithm
 
@@ -39,6 +40,7 @@ The performance of the models was evaluated using the following metrics:
   - Precision, recall, f1-score values
 - Confusion Matrix:
   - True Positive (TP), True Negative (TN), False Positive (FP), False Negative (FN), specificity, sensitivity values
+  - ![alt text](http://url/to/img.png)
 
 ## Conclusion
 
