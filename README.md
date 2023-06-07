@@ -1,3 +1,5 @@
+# 1030522863 Uğur Varol Delikanlıoğlu
+
 # Microbe DNA Analysis for Tumor Type Prediction
 
 This repository contains the code and data for a study that explores the potential of DNA samples of microbes in human blood as indicators of various tumor types in the human body. The goal of this study is to develop effective artificial intelligence models using the DNA samples to predict tumor types.
